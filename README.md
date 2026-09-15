@@ -23,7 +23,7 @@
 
 ضع الصورة الأولى هنا:
 
-(docs/images/r2-broken-part.png) 
+[(docs/images/r2-broken-part.png)](https://github.com/f8le/PS5-Controller-R2-Fix/blob/main/docs/images/r2-broken-part.png) 
 
 الصورة 1: موقع الجزء المكسور خلف زر R2.
 
