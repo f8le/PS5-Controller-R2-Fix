@@ -86,7 +86,7 @@
 الصورة 3: أدوات الصيانة ومراحل تفكيك يد التحكم.
 
 <p align="center">
-  <img src="docs/images/repair-tools.jpg" width="600">
+  <img src="docs/images/repair-tools.png" width="600">
 </p> 
 
 
