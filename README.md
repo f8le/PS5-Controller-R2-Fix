@@ -23,7 +23,7 @@
 
 ضع الصورة الأولى هنا:
 
-docs/images/r2-broken-part.png 
+(docs/images/r2-broken-part.png) 
 
 الصورة 1: موقع الجزء المكسور خلف زر R2.
 
@@ -61,7 +61,7 @@ docs/images/r2-broken-part.png
 
 ضع الصورة الثانية هنا:
 
-docs/images/dualsense-disassembled.png 
+(docs/images/dualsense-disassembled.png) 
 
 الصورة 2: يد التحكم بعد إزالة الغطاء الخلفي وكشف البطارية واللوحة الإلكترونية.
 
@@ -82,7 +82,7 @@ docs/images/dualsense-disassembled.png
 
 ضع الصورة الثالثة هنا:
 
-docs/images/repair-tools.png 
+(docs/images/repair-tools.png) 
 
 الصورة 3: أدوات الصيانة ومراحل تفكيك يد التحكم.
 
