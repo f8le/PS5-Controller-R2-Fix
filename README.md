@@ -63,7 +63,9 @@
 
 ضع الصورة الثانية هنا:
 
-(docs/images/dualsense-disassembled.png) 
+<p align="center">
+  <img src="docs/images/dualsense-disassembled.png" width="600">
+</p>
 
 الصورة 2: يد التحكم بعد إزالة الغطاء الخلفي وكشف البطارية واللوحة الإلكترونية.
 
@@ -84,7 +86,9 @@
 
 ضع الصورة الثالثة هنا:
 
-(docs/images/repair-tools.png) 
+<p align="center">
+  <img src="docs/images/repair-tools.jpg" width="600">
+</p> 
 
 الصورة 3: أدوات الصيانة ومراحل تفكيك يد التحكم.
 
